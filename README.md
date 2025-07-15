@@ -8,7 +8,7 @@ A full-featured web-based Crowdfunding Platform that allows users to create, man
 
 ## 👥 Team Members
 
-- 👨‍💻 **Pappu Kumar** – Full Stack Developer & Documentation  
+- 👨‍💻 **Pappu Kumar** – Full Stack Developer & Documentation  .
 - 🔧 **Munna Kumar** – Backend Developer  
 - 🎨 **Ritesh Kumar** – Frontend Developer  
 - 🛢️ **Durgesh Kumar** – Database & API Integration  
