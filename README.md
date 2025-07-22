@@ -15,7 +15,7 @@ A full-featured web-based Crowdfunding Platform that allows users to create, man
 
 ---
 
-## 🚀 Features
+## 🚀 Features.
 
 - ✅ User Registration & Login
 - ✅ Campaign Creation & Management
