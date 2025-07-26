@@ -1,4 +1,4 @@
-# 💰 Crowdfunding Platform
+# 💰 Crowdfunding Platform.
 
 A full-featured web-based Crowdfunding Platform that allows users to create, manage, and support fundraising campaigns. Designed for ease of use, transparency, and community-driven support.
 
